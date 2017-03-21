@@ -1,0 +1,7 @@
+footnotes.settings:
+  path: '/admin/config/content/footnones'
+  defaults:
+    _form: 'Drupal\module_test\Form\FootnotesForm'
+    _title: 'Footnotes config'
+  requirements:
+    _permission: 'administer site configuration'

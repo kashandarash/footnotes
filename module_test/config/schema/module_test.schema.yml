@@ -1,0 +1,9 @@
+# Schema for the configuration files of the Module test module.
+
+footnotes_settings.test:
+  type: config_object
+  label: 'Module test tokens'
+  mapping:
+    title:
+      type: string
+      label: 'Title'

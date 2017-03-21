@@ -1,0 +1,7 @@
+name: Module test
+type: module
+description: Adds the footnotes plugin to CKEditor.
+core: 8.x
+package: CKEditor
+dependencies:
+  - ckeditor

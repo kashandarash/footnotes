@@ -1,0 +1,5 @@
+footnotes:
+  version: 1.x
+  js:
+    js/config.js: {}
+    js/styles.js: {}
